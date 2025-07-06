@@ -1,6 +1,6 @@
 # 🔧 Java Compiler Compiler (JavaCC)
 
-This project is a simple compiler that takes a custom pseudo-language (AhmedLang) and converts it into Java code. It uses **JavaCC (Java Compiler Compiler)** to parse and compile custom syntax like variable declarations, assignments, and conditionals.
+This project is a simple compiler that takes a custom pseudo-language  and converts it into Java code. It uses **JavaCC (Java Compiler Compiler)** to parse and compile custom syntax like variable declarations, assignments, and conditionals.
 
 ---
 
