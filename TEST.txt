@@ -1,0 +1,29 @@
+
+
+CHAR Z == AHMED
+INTEGER X == 55
+INTEGER Y == 5
+
+
+INTEGER C == X / Y
+INTEGER mm == 77
+mm =88
+CHAR A = FF
+
+
+
+
+CHAR D == AHMED
+
+INTEGER C == X / Y
+INTEGER n == mm * C
+INTEGER v == X / Y
+
+
+IF 5 = C kbgghg
+IF 5 = 5 7
+
+
+
+
+
